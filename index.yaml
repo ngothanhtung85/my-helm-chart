@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  test-app:
+  argo-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-19T15:44:22.457432116+07:00"
+    created: "2024-01-19T16:40:55.065177022+07:00"
     description: A Helm chart for Kubernetes
-    digest: 6a0746610ff7fba2b651c8c732df87342c116077709c361e1adab9fc182cd963
-    name: test-app
+    digest: a1cd077f637d5ea6f4d39b874b387c362665660fd04b369c067531e0e94a8985
+    name: argo-test
     type: application
     urls:
-    - https://ngothanhtung85.github.io/my-helm-chart/test-app-0.1.0.tgz
+    - https://ngothanhtung85.github.io/my-helm-chart/argo-test-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-19T15:44:22.456587622+07:00"
+generated: "2024-01-19T16:40:55.064345845+07:00"
